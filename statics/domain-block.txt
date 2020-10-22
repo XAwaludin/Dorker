@@ -1,0 +1,13 @@
+go.microsoft.com
+microsoft.com
+www.google.com.bn
+www.google.com
+google.com
+www.instagram.com
+instagram.com
+m.facebook.com
+web.facebook.com
+www.facebook.com
+facebook.com
+www.bing.com
+bing.com
